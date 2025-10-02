@@ -1,5 +1,3 @@
-<!--
-**armstrohiro/armstrohiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### 👋 はじめまして！
 
 〇〇大学 修士1年の[あなたの名前]です。
@@ -18,5 +16,3 @@
 ### 📫 連絡先
 - [もしあれば、ポートフォリオサイトやLinkedInのURLなど]
 Here are some ideas to get you started:
-
->
